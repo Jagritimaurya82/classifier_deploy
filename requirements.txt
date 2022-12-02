@@ -1,5 +1,5 @@
 Flask
 tensorflow
 Pillow
-urllib
+urllib3
 uuid
